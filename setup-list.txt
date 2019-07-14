@@ -12,4 +12,3 @@
 # setting github ssh key
 ## document: https://help.github.com/en/articles/adding-a-new-ssh-key-to-your-github-account
 
-# for testing
