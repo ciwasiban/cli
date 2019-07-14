@@ -1,0 +1,10 @@
+# 測速用
+## cmd: speedtest-cli
+## document: https://www.soimort.org/translate-shell/
+
+# google translate
+## cmd: trans 'something'
+## document:  https://www.soimort.org/translate-shell/
+
+# find something to brew install
+## site: https://brewinstall.org
