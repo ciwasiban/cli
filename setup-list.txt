@@ -1,6 +1,6 @@
 # 測速用
-## cmd: speedtest-cli
-## document: https://www.soimort.org/translate-shell/
+## cmd: speedtest
+## document: https://www.speedtest.net/zh-Hant/apps/cli
 
 # google translate
 ## cmd: trans 'something'
